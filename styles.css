@@ -1,0 +1,75 @@
+.prof
+{
+    border-radius: 45%;
+    border: 2px #362b02;
+    border-color: #362b02;
+    
+}
+.proff
+{
+    align-self: flex-start;
+    background-color: #047178;
+    text-align: center; 
+    margin: auto;
+    border-radius: 90%;
+}
+.nom
+{
+    text-align: center;
+    color: #012a2c;
+    text-decoration: #f70505 solid;
+    font-size: 100px;
+    text-decoration-color: #f70505 sandybrown ;
+
+}
+.tableau
+{
+    border-spacing: 70;
+    border-collapse: collapse;
+    width: 1,2px;
+    height: auto;
+    border-radius: 10%;
+    
+    padding: 100px 150px 200px;
+}
+.tab1
+{
+    text-align: center;
+    margin: auto;
+    align-self: center;
+}
+.ff
+{
+    align-self: flex-end;
+    background-color: #06363f; 
+    color: aliceblue;
+}
+body
+{
+    background-color: #dfebeb;
+    font-size: 19px;
+}
+p
+{
+    padding: 30px;
+}
+th{
+    border: 20px solid #dfebeb;
+    border-radius: 80%;
+}
+footer{
+    border: 50px solid #dfebeb;
+}
+.tabf{
+    align-self: flex-end;
+    text-align: end;
+    border-radius: 90%;
+    border-spacing: 70;
+    border-collapse: collapse;
+    width: 1,2px;
+    
+    padding: 50px 100px 100px;
+}
+.espace{
+    color:  #06363f;
+}
