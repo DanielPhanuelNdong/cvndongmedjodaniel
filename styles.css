@@ -71,5 +71,6 @@ footer{
     padding: 50px 100px 100px;
 }
 .espace{
-    color:  #06363f;
+    align-self: flex-end;
+    text-align: end;
 }
